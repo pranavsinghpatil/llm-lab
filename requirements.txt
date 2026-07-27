@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-python-multipart
-pandas
-pydantic
-rapidfuzz
-sentence-transformers

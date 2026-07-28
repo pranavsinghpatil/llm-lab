@@ -1,4 +1,4 @@
-# What I Learned: Character Tokenizer
+# What I Learned: Character Tokenizer 
 
 ## 1. `fit()` vs `encode()`
 * `fit()` is the training phase. It builds the knowledge and the vocabulary initially.

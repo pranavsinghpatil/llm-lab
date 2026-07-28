@@ -33,6 +33,7 @@ yarn-error.log*
 # IDEs and editors
 .vscode/
 .idea/
+.ai/
 *.sublime-project
 *.sublime-workspace
 submissions_video.mp4

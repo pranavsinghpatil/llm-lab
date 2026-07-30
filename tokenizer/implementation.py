@@ -6,8 +6,8 @@ class CharacterTokenizer:
         Initialize the tokenizer.
         You might need structures to map characters to integers and vice-versa.
         """
-        self.char_to_int = {}
-        self.int_to_char = {}
+        # self.char_to_int = {}
+        # self.int_to_char = {}
         self.unk_token = "<UNK>"
         self.vocab = Vocabulary(special_tokens=[self.unk_token])
 
